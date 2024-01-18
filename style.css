@@ -13,7 +13,7 @@ body {
     object-fit: cover;
     width: 100%;
     height: 100%;
-    padding-left: 1%px;
+    padding-left: 200%px;
 
 }
 .top -left,
@@ -54,7 +54,7 @@ body {
     bottom: 2rem;
     right: 2rem;
 }
-.site name {
+.site-name {
     font-size: 2.25rem;
     font-weight: bold;
     margin-bottom: 0.625rem;
@@ -98,12 +98,25 @@ margin-bottom: 3.5rem;
     margin-bottom: 0.3125rem;
 }
 body{
-    width: 50%;
+    width: 75%;
     max-height: fit-content;
+    margin: 0 auto;
 
 }
 img src{
     height: 20px;
     margin: 0 auto;
 
+}
+.top-right a{
+    padding: 0 20px;
+}
+.top-left{
+    
+        font-size: 2.25rem;
+        font-weight: bold;
+        margin-bottom: 0.625rem;
+        text-decoration-color: black;
+        font-family: impact;
+    
 }
